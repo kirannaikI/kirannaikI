@@ -47,7 +47,6 @@ I'm building frontend applications that combine modern UI engineering with AI to
 ## 📫 Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/kiran-naik-a045389b/)
-- Portfolio:(https://kirannaik.netlify.app/)
 - Email:  itskirannaiki@gmail.com
 
 ---
